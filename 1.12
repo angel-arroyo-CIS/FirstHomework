@@ -1,0 +1,9 @@
+# Angel Arroyo
+# September 17th,2021
+# 1780023
+
+userNum = int(input())
+
+userNumSquared = userNum * userNum
+
+print(userNumSquared)
