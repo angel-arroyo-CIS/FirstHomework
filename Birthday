@@ -30,5 +30,5 @@ if BirthMonth == month:
     elif BirthDay == day:
         Age = (year - BirthYear)
         print('You are', Age, 'years old today. Happy birthday! (:')
-    else:
-        print('You are', Age, 'years old.')
+  else:
+    print('You are', Age, 'years old.')
